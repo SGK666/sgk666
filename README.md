@@ -13,7 +13,7 @@
 
 ### 🏆 Certs
 
-| Certificare / Acreditare | Emitent | Domeniu | Data obținerii |
+| Cert | Provider | Domain | Date |
 | :--- | :--- | :--- | :--- |
 | **[Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=AB2A6067A226E1A6170E6E75728019B4B33E46C2429BE29FEB3A542B07314998)** | ORACLE | Cloud & Data Architecture | 10 Ian 2026 |
 | **[Academy Accreditation - Azure Databricks Platform Architect](https://credentials.databricks.com/b6a6f00b-633e-4409-91e4-20d62c875145#acc.GOcR1etH)** | Databricks Academy | Cloud & Data Architecture | 09 Ian 2026 |
