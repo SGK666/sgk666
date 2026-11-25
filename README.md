@@ -1,16 +1,23 @@
-## Hi there 👋
+# Salut! 👋 Sunt Chaos.
 
-<!--
-**SGK666/sgk666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pasionat de **Rețelistică, Cybersecurity, DevOps și Full Stack Development**.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Domenii & Tehnologii
+* **Networking:** Cisco, Routing & Switching, TCP/IP, VLAN, VPN, Firewall
+* **Systems & DevOps:** Linux, Windows Server, Docker, CI/CD
+* **Security & QA:** Network Security, Automation Testing
+* **Development & AI:** Full Stack, Python, AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 Certificări & Badge-uri Verificabile
+
+| Certificare | Emitent | An | Verificare |
+| :--- | :--- | :--- | :--- |
+| **CCNA (exemplu)** | Cisco | 2025 | [Vezi Badge Credly](https://credly.com) |
+| **AWS Cloud Practitioner** | Amazon Web Services | 2025 | [Vezi Certificat](https://credly.com) |
+| **Altă certificare** | Furnizor | 2026 | [Link Verificare / PDF](https://google.com) |
+
+---
+
