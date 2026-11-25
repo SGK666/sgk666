@@ -1,9 +1,9 @@
-# Salut! 👋 Sunt Chaos.
+# Chaos.
 
-Pasionat de **Rețelistică, Cybersecurity, DevOps și Full Stack Development**.
+**Networking, Cybersecurity, DevOps & Full Stack Development**.
 ---
 
-### 🛠️ Domenii & Tehnologii
+### 🛠️ Domains
 * **Networking:** Cisco, Routing & Switching, TCP/IP, VLAN, VPN, Firewall
 * **Systems & DevOps:** Linux, Windows Server, Docker, CI/CD
 * **Security & QA:** Network Security, Automation Testing
@@ -11,7 +11,7 @@ Pasionat de **Rețelistică, Cybersecurity, DevOps și Full Stack Development**.
 
 ---
 
-### 🏆 Certificări & Acreditări Oficiale
+### 🏆 Certs
 
 | Certificare / Acreditare | Emitent | Domeniu | Data obținerii |
 | :--- | :--- | :--- | :--- |
