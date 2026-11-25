@@ -15,7 +15,7 @@ Pasionat de **Rețelistică, Cybersecurity, DevOps și Full Stack Development**.
 
 | Certificare / Acreditare | Emitent | Domeniu | Data obținerii |
 | :--- | :--- | :--- | :--- |
-| **[Academy Accreditation - Azure Databricks Platform Architect]**(https://credentials.databricks.com/b6a6f00b-633e-4409-91e4-20d62c875145#acc.GOcR1etH) | Databricks Academy | Cloud & Data Architecture | 09 Ian 2026 |
+| **[Academy Accreditation - Azure Databricks Platform Architect](https://credentials.databricks.com/b6a6f00b-633e-4409-91e4-20d62c875145#acc.GOcR1etH)** | Databricks Academy | Cloud & Data Architecture | 09 Ian 2026 |
 | **Academy Accreditation - Platform Administrator** | Databricks Academy | Cloud & Platform Admin | 09 Ian 2026 |
 | **Academy Accreditation - Databricks Fundamentals** | Databricks Academy | Data & AI Platforms | 09 Ian 2026 |
 | **Ethical Hacker** | Cisco Networking Academy | Cybersecurity | 08 Ian 2026 |
